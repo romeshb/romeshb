@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about AI, ML, DL, Cryptocurrencies.
 - 📫 How to reach me: borawakeromesh@gmail.com 
 - 😄 Pronouns: Engineer.
-- ⚡ Fun fact: I'm Also a Mechanical Engineer.
+- ⚡ Fun fact: I'm also a Mechanical Engineer.
 - 📎 Website: https://romeshb.github.io/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=romeshb)](https://github.com/ryo-ma/github-profile-trophy)
