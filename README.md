@@ -13,5 +13,8 @@
 - ⚡ Fun fact: I'm also a Mechanical Engineer.
 - 📎 Website: https://romeshb.github.io/
 
+<a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=romeshb)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romeshb&theme=vue)
+
