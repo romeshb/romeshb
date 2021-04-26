@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with my Deep Learning project.
 - 💬 Ask me about AI, ML, DL, Cryptocurrencies.
 - 📫 How to reach me: borawakeromesh@gmail.com 
-- 😄 Pronouns: he, his, him, Er.
 - ⚡ Fun fact: I'm also a Mechanical Engineer.
 - 📎 Website: https://romeshb.github.io/
 
