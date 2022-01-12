@@ -2,7 +2,7 @@
 **romeshb/romeshb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
 
 <h1 align="center">Hi 👋, I'm Romesh Borawake</h1>
-<h3 align="center">Data Analyst | Machine Learning | Deep Learning Practisioner</h3>
+<h3 align="center">Data Analyst | Machine Learning | Deep Learning Practitioner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romeshb&label=Profile%20views&color=0e75b6&style=flat" alt="romeshb" /> </p>
 
