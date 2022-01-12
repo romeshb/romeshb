@@ -2,11 +2,11 @@
 **romeshb/romeshb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
 
 <h1 align="center">Hi 👋, I'm Romesh Borawake</h1>
-<h3 align="center">An Aspiring Machine Learning Engineer</h3>
+<h3 align="center">Data Analyst | Machine Learning | Deep Learning Practisioner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romeshb&label=Profile%20views&color=0e75b6&style=flat" alt="romeshb" /> </p>
 
-- 🔭 I’m currently working on **Python, Machine Learning, Deep Learning**
+- 🔭 I’m currently working on **Python, Machine Learning, Deep Learning Project to Solve Real-Life Problems.**
 - 🌱 I’m currently learning **Data Science.**
 - 👯 I’m looking to collaborate on **Python, Machine Learning, Deep Learning Projects.**
 - 🤝 I’m looking for help with **my Machine Learning projects.**
