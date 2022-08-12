@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romeshb&label=Profile%20views&color=0e75b6&style=flat" alt="romeshb" /> </p>
 
-- 🔭 I’m currently working on **Python, Machine Learning, Deep Learning Project to Solve Real-Life Problems.**
-- 🌱 I’m currently learning **Data Science.**
-- 👯 I’m looking to collaborate on **Python, Machine Learning, Deep Learning Projects.**
+- 🔭 I’m currently working as A Software Developement Engineer at a Startup, **Python, JavaScript, Machine Learning, Deep Learning Project, Large Scale Data Collection to Solve Real-Life Problems.**
+- 🌱 I’m always open to talk **Data Science.**
+- 👯 I’m looking to collaborate on **Python, JavaScript, Machine Learning, Deep Learning Projects.**
 - 🤝 I’m looking for help with **my Machine Learning projects.**
 - 💬 Ask me about **AI, ML, DL, Cryptocurrencies.**
 - 📫 How to reach me **borawakeromesh@gmail.com**
